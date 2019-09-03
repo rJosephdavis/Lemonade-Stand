@@ -11,20 +11,25 @@ namespace lemonadeStandtest
 
         string Stand = "Lemonade";
 
-        public Player Player;
+        public Player Inventory;
 
-        string player = "Player1";
         string PaperCups = "PaperCups";
         string Lemons = "Lemons";
         string CupsOfSugar = "CupsOfSugar";
         string IceCubes = "IceCubes";
 
-        public Day Day
-        {
-            get => default;
-            set
-            {
-            }
-        }
-    }
-    }
+        public Day Day;
+
+        public void (NumberOfDays);
+            string Total expected = "Seven";
+
+
+
+
+
+
+
+
+
+
+

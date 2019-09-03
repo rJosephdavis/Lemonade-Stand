@@ -7,12 +7,11 @@ namespace lemonadeStandtest
 {
     public class Day
     {
-        public Weather Weather
+        public Weather weather;
+
+        public Day()
         {
-            get => default;
-            set
-            {
-            }
+            weather = new Weather();
         }
     }
 }
