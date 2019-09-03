@@ -1,0 +1,7 @@
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\bin\Debug\lemonadeStandtest.exe.config
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\bin\Debug\lemonadeStandtest.exe
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\bin\Debug\lemonadeStandtest.pdb
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\obj\Debug\lemonadeStandtest.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\obj\Debug\lemonadeStandtest.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\obj\Debug\lemonadeStandtest.exe
+C:\Users\Ryan\source\repos\lemonadeStandtest\lemonadeStandtest\obj\Debug\lemonadeStandtest.pdb
