@@ -7,5 +7,8 @@ namespace lemonadeStandtest
 {
     public class Weather
     {
+      string Weather =  
+
     }
+
 }

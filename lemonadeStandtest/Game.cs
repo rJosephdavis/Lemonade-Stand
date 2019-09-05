@@ -13,15 +13,18 @@ namespace lemonadeStandtest
 
         public Player Inventory;
 
-        string PaperCups = "PaperCups";
-        string Lemons = "Lemons";
-        string CupsOfSugar = "CupsOfSugar";
-        string IceCubes = "IceCubes";
+        Inventory = new Inventory();
 
-        public Day Day;
+        //string PaperCups = "PaperCups";
+        //string Lemons = "Lemons";
+        //string CupsOfSugar = "CupsOfSugar";
+        //string IceCubes = "IceCubes";
 
-        public void (NumberOfDays);
-            string Total expected = "Seven";
+        
+
+
+        
+            
 
 
 
