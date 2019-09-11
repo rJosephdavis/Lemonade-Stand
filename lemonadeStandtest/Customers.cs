@@ -7,12 +7,16 @@ namespace lemonadeStandtest
 {
     public class Customers
     {
-        public Game Game
+
+        public void Customers()
         {
-            get => default;
-            set
-            {
-            }
+
+
         }
+
+
+
     }
+
 }
+      

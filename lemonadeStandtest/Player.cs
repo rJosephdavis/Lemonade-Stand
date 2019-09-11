@@ -7,5 +7,15 @@ namespace lemonadeStandtest
 {
     public class Player
     {
+        public Inventory inventory;
     }
+
+    public 
+    {
+
+    }
+
+
 }
+
+

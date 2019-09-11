@@ -5,26 +5,35 @@ using System.Text;
 
 namespace lemonadeStandtest
 {
-    public class Game
-    {
-        private int StandName;
+      public class Game
+      {
+        public Player Players;
+        string Player = "Player1";
 
-        string Stand = "Lemonade";
+        public void RunGame()
+        {
+            Store store = new Store();
 
-        public Player Inventory;
-
-        Inventory = new Inventory();
-
-        //string PaperCups = "PaperCups";
-        //string Lemons = "Lemons";
-        //string CupsOfSugar = "CupsOfSugar";
-        //string IceCubes = "IceCubes";
-
-        
+            store.AddLemons(Players.inventory);
+            store.AddSugar(Players.inventory);
+            store.AddCups(Players.inventory);
+            store.AddIceCubes(Players.inventory);
+        }
+        public GameInventory()
 
 
-        
-            
+
+
+
+
+      }
+
+
+
+
+
+
+}
 
 
 

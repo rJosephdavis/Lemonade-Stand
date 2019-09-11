@@ -10,6 +10,14 @@ namespace lemonadeStandtest
     {
         static void Main(string[] args)
         {
+            
+
+
+
+
         }
+
+
+
     }
 }

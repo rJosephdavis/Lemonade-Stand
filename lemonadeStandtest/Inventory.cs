@@ -5,14 +5,37 @@ using System.Text;
 
 namespace lemonadeStandtest
 {
+    
     public class Inventory
     {
-        public Class1 Class1
+
+        public int lemons;
+        public int Cups;
+        public int Sugar;
+        public int IceCubes;
+        
+        public int Quantity;
+        public int ItemsOrdered;
+
+
+
+        public Inventory()
         {
-            get => default;
-            set
-            {
-            }
+            lemons = 0;
+            Cups = 0;
+            Sugar = 0;
+            IceCubes = 0;
         }
+
+       
+
+
+
+
+
     }
+
+
+
+
 }

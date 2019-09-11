@@ -7,20 +7,41 @@ namespace lemonadeStandtest
 {
     public class Store
     {
-        public Inventory Inventory
+        List<string> Inventory = new List<string>();
+        public Store()
         {
-            get => default;
-            set
-            {
-            }
+            Inventory.Add("Lemons");
+            Inventory.Add("Sugar");
+            Inventory.Add("Ice");
+            Inventory.Add("PaperCups");
         }
 
-        public Player Player
+        public void Player()
         {
-            get => default;
-            set
-            {
-            }
+          
         }
+
+        public void AddLemons(Inventory inventory)
+        {
+            inventory.lemons += 15;
+            
+        }
+        public void AddSugar(Inventory inventory)
+        {
+            inventory.Sugar += 15;
+
+        }
+        public void AddCups(Inventory inventory)
+        {
+            inventory.Cups +=15;
+        }
+        public void AddIceCubes(Inventory inventory)
+        {
+            inventory.IceCubes += 15;
+        }
+
+
+
+
     }
 }
